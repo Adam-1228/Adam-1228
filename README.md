@@ -1,4 +1,3 @@
-<!--
 Adam Seong
 AI Engineer · Seoul, Korea
 데모가 아니라 운영되는 시스템을 만듭니다.
