@@ -31,12 +31,12 @@ All currently live. 자세한 설명과 임팩트 지표는 [포트폴리오 사
 
 ## Stack
 
-**AI / LLM** — Claude API · Google Gemini · OpenAI · LangGraph · Tool Use / Function Calling
-**Languages** — Python 3.11+ · JavaScript / TypeScript · SQL · Bash
-**Data** — pandas · NumPy · Plotly · Streamlit · SQLite · PostgreSQL
-**Infra** — AWS EC2 / S3 · Docker · Nginx · systemd · GitHub Actions
-**Backend** — Flask · FastAPI · asyncio · REST · Webhooks · Queue / Scheduler
-**Integrations** — SendGrid · Gmail API · Telegram Bot · Upbit · KIS · Slack · Notion
+- **AI / LLM** — Claude API · Google Gemini · OpenAI · LangGraph · Tool Use / Function Calling
+- **Languages** — Python 3.11+ · JavaScript / TypeScript · SQL · Bash
+- **Data** — pandas · NumPy · Plotly · Streamlit · SQLite · PostgreSQL
+- **Infra** — AWS EC2 / S3 · Docker · Nginx · systemd · GitHub Actions
+- **Backend** — Flask · FastAPI · asyncio · REST · Webhooks · Queue / Scheduler
+- **Integrations** — SendGrid · Gmail API · Telegram Bot · Upbit · KIS · Slack · Notion
 
 ---
 
