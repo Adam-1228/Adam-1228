@@ -1,5 +1,13 @@
 <div align="center">
 
+<a href="https://adam-1228.github.io/adam-seong-portfolio" target="_blank">
+  <img src="https://api.microlink.io/?url=https%3A%2F%2Fadam-1228.github.io%2Fadam-seong-portfolio&screenshot=true&meta=false&embed=screenshot.url&overlay.browser=dark&viewport.width=1280&viewport.height=720&waitFor=1500" alt="Adam Seong — Portfolio Preview" width="720" />
+</a>
+
+### 🔗 [adam-1228.github.io/adam-seong-portfolio](https://adam-1228.github.io/adam-seong-portfolio)
+
+<br />
+
 # Adam Seong
 
 **AI Engineer · Seoul, Korea**
