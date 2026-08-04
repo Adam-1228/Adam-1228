@@ -38,9 +38,54 @@ Claude, Codex, OpenAI, Gemini, Groq 같은 AI 툴을 단순 코드 생성기가 
 | 제품 | 상태 | 증거 | 주요 스택 |
 |---|---:|---:|---|
 | **ADAM Orbit** | `릴리즈` | `v10.2.6 · 452 passed` | Windows · OpenAPI · SQLite · Release QA |
+| **나라먹기** | `APP STORE 출시` | `iOS v1.0.3` | React · Phaser · Capacitor · iOS |
 | **AI 세일즈 자동화** | `운영 중` | `리드 전환율 +32%` | LangGraph · Gemini · SendGrid · AWS |
 | **AI 툴 기반 프로토타입** | `제작 중` | AI-assisted product workflow | Claude · Codex · OpenAI · Gemini |
 | **네일샵 예산 대시보드** | `운영 중` | 4년 재무 흐름 시각화 | Streamlit · Sheets · Plotly · pandas |
+
+---
+
+## 출시 게임 · 나라먹기
+
+<table>
+<tr>
+<td width="150" align="center">
+  <img src="https://raw.githubusercontent.com/Adam-1228/adam-seong-portfolio/main/assets/games/nation-eater/app-icon.webp" alt="나라먹기 앱 아이콘" width="124" />
+</td>
+<td valign="top">
+
+### 평범한 시민에서 세계 의장까지
+
+**허구 정치 풍자 방치형 RPG · App Store v1.0.3 정식 출시**
+
+명함 한 장으로 시작해 후원회, 국회, 대통령 연임을 거쳐 세계 의장까지 성장합니다. 빠른 공작은 수익을 만들지만 스캔들 뉴스와 시각적 후폭풍도 함께 남습니다.
+
+<a href="https://apps.apple.com/kr/app/%EB%82%98%EB%9D%BC%EB%A8%B9%EA%B8%B0/id6791886200">
+  <img src="https://img.shields.io/badge/App%20Store-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="App Store에서 나라먹기 다운로드" />
+</a>
+
+</td>
+</tr>
+</table>
+
+**담당 범위:** `1인 기획 · 게임 디자인 · 제작 · 엔지니어링 · QA · App Store 배포`
+
+- **세계관과 게임 디자인** — 풍자 세계관, 방치 경제, 시민에서 세계 의장까지의 장기 성장, 공작과 후폭풍 루프를 설계했습니다.
+- **콘텐츠와 비주얼 제작** — 뉴스 96종, 엔딩 18종, 보좌진 6명, 권력 도구 12종과 생성형 AI 기반 아트·사운드 제작 흐름을 구축했습니다.
+- **제품 파이프라인** — React, TypeScript, Phaser, Zustand로 게임을 구현하고 Capacitor로 iOS 네이티브 기능과 연결했습니다.
+- **출시 엔지니어링** — Game Center/iCloud 저장, 자동 회귀 검증, 시뮬레이터·실기기 QA, TestFlight, App Review와 공개 배포를 완료했습니다.
+
+**제작 파이프라인**<br />
+`아이디어 → 게임 디자인 → 콘텐츠·아트 파이프라인 → 구현 → QA → App Store`
+
+**제품 증거**<br />
+`iOS v1.0.3` · `뉴스 96종` · `엔딩 18종` · `보좌진 6명` · `권력 도구 12종`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Adam-1228/adam-seong-portfolio/main/assets/games/nation-eater/citizen.webp" alt="나라먹기 시민 단계 화면" width="31%" />
+  <img src="https://raw.githubusercontent.com/Adam-1228/adam-seong-portfolio/main/assets/games/nation-eater/crisis-aftermath.webp" alt="나라먹기 공작 후폭풍 화면" width="31%" />
+  <img src="https://raw.githubusercontent.com/Adam-1228/adam-seong-portfolio/main/assets/games/nation-eater/world-chair.webp" alt="나라먹기 세계 의장 단계 화면" width="31%" />
+</div>
 
 ---
 
@@ -192,9 +237,54 @@ I use AI tools such as Claude, Codex, OpenAI, Gemini, and Groq as an engineering
 | Product | Status | Evidence | Main Stack |
 |---|---:|---:|---|
 | **ADAM Orbit** | `RELEASED` | `v10.2.6 · 452 passed` | Windows · OpenAPI · SQLite · Release QA |
+| **Nation Eater** | `APP STORE RELEASE` | `iOS v1.0.3` | React · Phaser · Capacitor · iOS |
 | **AI Sales Automation** | `LIVE` | `Lead conversion +32%` | LangGraph · Gemini · SendGrid · AWS |
 | **AI Tool Prototypes** | `BUILDING` | AI-assisted product workflow | Claude · Codex · OpenAI · Gemini |
 | **Nail Shop Dashboard** | `LIVE` | 4-year finance view | Streamlit · Sheets · Plotly · pandas |
+
+---
+
+## Shipped Game · Nation Eater
+
+<table>
+<tr>
+<td width="150" align="center">
+  <img src="https://raw.githubusercontent.com/Adam-1228/adam-seong-portfolio/main/assets/games/nation-eater/app-icon.webp" alt="Nation Eater app icon" width="124" />
+</td>
+<td valign="top">
+
+### From ordinary citizen to world chair
+
+**Fictional political-satire idle RPG · App Store v1.0.3 live release**
+
+Start with one business card, build a support machine, enter parliament, win repeat presidential terms, and climb toward the world chair. Every profitable shortcut can leave a scandal chain and a visible aftermath.
+
+<a href="https://apps.apple.com/kr/app/%EB%82%98%EB%9D%BC%EB%A8%B9%EA%B8%B0/id6791886200">
+  <img src="https://img.shields.io/badge/App%20Store-Download-0D96F6?style=for-the-badge&logo=apple&logoColor=white" alt="Download Nation Eater on the App Store" />
+</a>
+
+</td>
+</tr>
+</table>
+
+**Ownership:** `Solo product planning · game design · production · engineering · QA · App Store release`
+
+- **World and game design** — Designed the satirical setting, idle economy, citizen-to-world-chair progression, and scheme-to-aftermath loop.
+- **Content and visual production** — Built 96 news stories, 18 endings, 6 aides, 12 political tools, and an AI-assisted art and audio workflow.
+- **Product pipeline** — Implemented the game with React, TypeScript, Phaser, and Zustand, then connected native iOS capabilities through Capacitor.
+- **Release engineering** — Completed Game Center/iCloud saves, automated regression gates, simulator and physical-device QA, TestFlight, App Review, and public release.
+
+**Production pipeline**<br />
+`Concept → Game Design → Content/Art Pipeline → Implementation → QA → App Store`
+
+**Product evidence**<br />
+`iOS v1.0.3` · `96 news stories` · `18 endings` · `6 aides` · `12 political tools`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Adam-1228/adam-seong-portfolio/main/assets/games/nation-eater/citizen.webp" alt="Citizen stage in Nation Eater" width="31%" />
+  <img src="https://raw.githubusercontent.com/Adam-1228/adam-seong-portfolio/main/assets/games/nation-eater/crisis-aftermath.webp" alt="Scheme aftermath in Nation Eater" width="31%" />
+  <img src="https://raw.githubusercontent.com/Adam-1228/adam-seong-portfolio/main/assets/games/nation-eater/world-chair.webp" alt="World-chair stage in Nation Eater" width="31%" />
+</div>
 
 ---
 
