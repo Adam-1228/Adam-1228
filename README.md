@@ -38,7 +38,7 @@ Claude, Codex, OpenAI, Gemini, Groq 같은 AI 툴을 단순 코드 생성기가 
 | 제품 | 상태 | 증거 | 주요 스택 |
 |---|---:|---:|---|
 | **ADAM Orbit** | `릴리즈` | `v10.2.6 · 452 passed` | Windows · OpenAPI · SQLite · Release QA |
-| **Three Doors of Fate** | `APP STORE 출시` | `iOS v1.0.5` | Unity 6 · C# · iOS · Game Center |
+| **Three Doors of Fate** | `APP STORE 출시` | `iOS v1.1.1` | Unity 6 · C# · iOS · Game Center |
 | **나라먹기** | `APP STORE 출시` | `iOS v1.0.3` | React · Phaser · Capacitor · iOS |
 | **AI 세일즈 자동화** | `운영 중` | `리드 전환율 +32%` | LangGraph · Gemini · SendGrid · AWS |
 | **AI 툴 기반 프로토타입** | `제작 중` | AI-assisted product workflow | Claude · Codex · OpenAI · Gemini |
@@ -57,7 +57,7 @@ Claude, Codex, OpenAI, Gemini, Groq 같은 AI 툴을 단순 코드 생성기가 
 
 ### 세 문을 넘는 다크 판타지 카드 RPG
 
-**세 개의 문, 세 명의 계약자, 매번 달라지는 여정 · App Store v1.0.5 정식 출시**
+**세 개의 문, 세 명의 계약자, 매번 달라지는 여정 · App Store v1.1.1 정식 출시**
 
 세 개의 문 가운데 하나를 선택하고, 카드와 유물로 위험을 돌파하는 턴제 로그라이크입니다. 도박사, 예언가, 추방자 중 한 명과 계약해 적의 의도를 읽고 자신만의 결말에 도달하세요.
 
@@ -70,7 +70,7 @@ Claude, Codex, OpenAI, Gemini, Groq 같은 AI 툴을 단순 코드 생성기가 
 </table>
 
 **제품 증거**<br />
-`iOS v1.0.5` · `iPhone / iPad` · `Game Center 업적·리더보드` · `Unity 6`
+`iOS v1.1.1` · `iPhone / iPad` · `Game Center 업적·리더보드` · `Unity 6`
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Adam-1228/adam-seong-portfolio/main/assets/games/three-doors-of-fate/class-selection.webp" alt="Three Doors of Fate의 세 클래스 선택 화면" width="31%" />
@@ -171,7 +171,7 @@ Claude, Codex, OpenAI, Gemini, Groq 같은 AI 툴을 단순 코드 생성기가 
 - **ADAM Orbit** - Windows 데스크톱 자동매매 클라이언트
 - **Last One or Nothing** - Unity 생존 호러 프로토타입
 - **The Gray Maze** - Three.js / Electron 3D 미로 프로토타입
-- **Three Doors of Fate** - Unity 6 다크 판타지 카드 RPG · App Store v1.0.5 출시
+- **Three Doors of Fate** - Unity 6 다크 판타지 카드 RPG · App Store v1.1.1 출시
 - **Unreal Gray Maze** - Unreal C++ 프로토타입
 
 ---
@@ -272,7 +272,7 @@ I use AI tools such as Claude, Codex, OpenAI, Gemini, and Groq as an engineering
 | Product | Status | Evidence | Main Stack |
 |---|---:|---:|---|
 | **ADAM Orbit** | `RELEASED` | `v10.2.6 · 452 passed` | Windows · OpenAPI · SQLite · Release QA |
-| **Three Doors of Fate** | `APP STORE RELEASE` | `iOS v1.0.5` | Unity 6 · C# · iOS · Game Center |
+| **Three Doors of Fate** | `APP STORE RELEASE` | `iOS v1.1.1` | Unity 6 · C# · iOS · Game Center |
 | **Nation Eater** | `APP STORE RELEASE` | `iOS v1.0.3` | React · Phaser · Capacitor · iOS |
 | **AI Sales Automation** | `LIVE` | `Lead conversion +32%` | LangGraph · Gemini · SendGrid · AWS |
 | **AI Tool Prototypes** | `BUILDING` | AI-assisted product workflow | Claude · Codex · OpenAI · Gemini |
@@ -291,7 +291,7 @@ I use AI tools such as Claude, Codex, OpenAI, Gemini, and Groq as an engineering
 
 ### A dark-fantasy card RPG beyond three doors
 
-**Three doors, three characters, and a different journey every time · App Store v1.0.5 live release**
+**Three doors, three characters, and a different journey every time · App Store v1.1.1 live release**
 
 Choose one of three doors and survive the risks beyond them with cards and relics. Make a pact with the Gambler, Seer, or Exile, read each enemy's intent, and fight toward an ending of your own.
 
@@ -304,7 +304,7 @@ Choose one of three doors and survive the risks beyond them with cards and relic
 </table>
 
 **Product evidence**<br />
-`iOS v1.0.5` · `iPhone / iPad` · `Game Center achievements and leaderboards` · `Unity 6`
+`iOS v1.1.1` · `iPhone / iPad` · `Game Center achievements and leaderboards` · `Unity 6`
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Adam-1228/adam-seong-portfolio/main/assets/games/three-doors-of-fate/class-selection.webp" alt="Three character classes in Three Doors of Fate" width="31%" />
@@ -405,7 +405,7 @@ Start with one business card, build a support machine, enter parliament, win rep
 - **ADAM Orbit** - Windows desktop trading client
 - **Last One or Nothing** - Unity survival horror prototype
 - **The Gray Maze** - Three.js / Electron 3D maze prototype
-- **Three Doors of Fate** - Unity 6 dark-fantasy card RPG · App Store v1.0.5 release
+- **Three Doors of Fate** - Unity 6 dark-fantasy card RPG · App Store v1.1.1 release
 - **Unreal Gray Maze** - Unreal C++ prototype
 
 ---
